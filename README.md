@@ -8,7 +8,7 @@ Proinnteach on the Avenue is a new revolutionary restaurant aimed to please cust
 I would like this website to be easy to use, and simple to navigate. Along with making my own reservation system, I would like this website to stand out compared to other restaurant sites as if this was one of the most exclusive restaurants out there.
 
 ## Bug Testing
-In gitpod it shows my css perfectly, but when I deploy the code on github it doesnt take the body colour i have placed to get colours right.
+In gitpod it shows my css perfectly, but when I deploy the code on github it doesnt take the body colour i have placed to get colours right. [That seems to have fixed the issue]
 
 
 ## Deployment 
